@@ -10,8 +10,8 @@ spring:
 aliyun:
   oss:
     endpoint: cn-beijing
-    keyId: LTAI5tJhJYyreHnF2AqP14ui
-    keySecret: Y1jUmgKNMAjk9R7TYehyUanhFi1wNg
-    bucketName: oss-zzl
+    keyId: 改成自己的
+    keySecret: 改成自己的
+    bucketName: 改成自己的
 
 
