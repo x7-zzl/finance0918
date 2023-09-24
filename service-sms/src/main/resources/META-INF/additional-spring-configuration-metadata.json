@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "aliyun.sms.region-id",
+      "type": "java.lang.String",
+      "description": "Description for aliyun.sms.region-id."
+    },
+    {
+      "name": "aliyun.sms.key-id",
+      "type": "java.lang.String",
+      "description": "Description for aliyun.sms.key-id."
+    },
+    {
+      "name": "aliyun.sms.key-secret",
+      "type": "java.lang.String",
+      "description": "Description for aliyun.sms.key-secret."
+    },
+    {
+      "name": "aliyun.sms.template-code",
+      "type": "java.lang.String",
+      "description": "Description for aliyun.sms.template-code."
+    },
+    {
+      "name": "aliyun.sms.sign-name",
+      "type": "java.lang.String",
+      "description": "Description for aliyun.sms.sign-name."
+    }
+  ] }
