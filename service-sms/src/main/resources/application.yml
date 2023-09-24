@@ -25,7 +25,7 @@ spring:
 aliyun:
   sms:
     region-id: cn-hangzhou
-    key-id: LTAI5tGy2Kdb8zbLg1VWGYKr
-    key-secret: zmeG2HrPXb8dWfYGCbqD1YYlptRK13
-    template-code: SMS_463601114
+    key-id: 改成自己的
+    key-secret: 改成自己的
+    template-code: 改成自己的(SMS_463601114)
     sign-name: 天地一家大爱盟
